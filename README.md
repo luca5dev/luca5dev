@@ -51,6 +51,7 @@
 
 <h2 align="center">DevTools</h2>
 <div align="center">  
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a> 
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>  
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>   
 </div>
